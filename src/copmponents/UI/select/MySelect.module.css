@@ -1,0 +1,14 @@
+.myselect {
+  padding: 10px;
+  border: 1px solid teal;
+  border-radius: 5px;
+  font-size: 15px;
+  margin: 20px 0;
+}
+
+.myoption {
+  padding: 10px;
+  border: 1px solid teal;
+  border-radius: 5px;
+  font-size: 15px;
+}

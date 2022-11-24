@@ -1,0 +1,36 @@
+.post {
+  display: flex;
+  padding: 40px;
+  border: 1px solid #000;
+  border-radius: 3px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+.post__content {
+  font-size: 20px;
+}
+.post__btn > button {
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  color: #fff;
+  background-color: rgb(238, 111, 111);
+  border-radius: 5px;
+}
+.wrapper__pages {
+  display: flex;
+  margin: 30px 0;
+  justify-content: space-around;
+}
+.page {
+  padding: 10px;
+  font-size: 15px;
+  border: 1px solid teal;
+  color: teal;
+  background: transparent;
+  cursor: pointer;
+}
+.page__current {
+  border: 3px solid orange;
+}
